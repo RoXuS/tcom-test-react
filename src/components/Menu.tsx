@@ -13,7 +13,7 @@ function Menu() {
   return (
     <div className="Menu">
       {menu.map((m, index) => (
-        <Link to={`/${m}`} key={m} className="Item" href={`/${m}`}>
+        <Link to={`/${m}`} key={m} className="Item">
           {m}
           {index !== menu.length - 1
             ? ' | '

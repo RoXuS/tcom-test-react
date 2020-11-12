@@ -8,9 +8,9 @@ import './TcomTop.css';
 import TcomItem from './TcomItem';
 import { getLiveFromServer, getMappedLive } from '../redux/utils';
 
-function TcomTop() {
+function TcomNew() {
   const {
-    tops,
+    news,
     size,
     page,
     currentLive,
@@ -19,12 +19,12 @@ function TcomTop() {
   const dispatch = useDispatch();
 
   useEffect(() => {
-    getLiveFromServer('top');
+    getLiveFromServer('new');
   }, [page, size]);
 
   useEffect(() => {
-    getMappedLive(page, size, tops);
-  }, [tops]);
+    getMappedLive(page, size, news);
+  }, [news]);
 
   const tapOnMore = () => {
     dispatch(setPage(page + 1));
@@ -44,4 +44,4 @@ function TcomTop() {
   );
 }
 
-export default TcomTop;
+export default TcomNew;

@@ -5,8 +5,9 @@ import {
   Switch,
   Route,
 } from 'react-router-dom';
-import Header from './Header';
 import TcomTop from './TcomTop';
+import TcomNew from './TcomNew';
+import Header from './Header';
 
 function App() {
   return (
@@ -14,6 +15,9 @@ function App() {
       <div className="App">
         <Header />
         <Switch>
+          <Route path="/new">
+            <TcomNew />
+          </Route>
           <Route path="/">
             <TcomTop />
           </Route>
