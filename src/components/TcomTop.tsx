@@ -19,6 +19,10 @@ function TcomTop() {
   const dispatch = useDispatch();
 
   useEffect(() => {
+    dispatch(setPage(0));
+  }, []);
+
+  useEffect(() => {
     getLiveFromServer('top');
   }, [page, size]);
 

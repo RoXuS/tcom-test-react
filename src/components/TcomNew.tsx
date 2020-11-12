@@ -19,6 +19,10 @@ function TcomNew() {
   const dispatch = useDispatch();
 
   useEffect(() => {
+    dispatch(setPage(0));
+  }, []);
+
+  useEffect(() => {
     getLiveFromServer('new');
   }, [page, size]);
 
