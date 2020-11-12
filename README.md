@@ -1,3 +1,5 @@
+![CI](https://github.com/roxus/tcom-test-react/workflows/CI/badge.svg)
+
 [DEMO](https://roxus.github.io/tcom-test-react/)
 
 ## Start the project
