@@ -27,7 +27,7 @@ function TcomItem({ index, item }:
   return (
     <div className="Wrapper">
       <div className="LineOne">
-        <div>
+        <div className="Rank">
           {index}
           .
         </div>
@@ -36,18 +36,19 @@ function TcomItem({ index, item }:
           {item.title}
         </a>
         <div className="By">
-          &nbsp;$
+          &nbsp;
           {getHost(item.url)}
         </div>
       </div>
       <div className="LineTwo">
         {item.score}
         {' '}
-        points by $
+        points by
         {item.by}
         {getTimeSpent(item.time)}
         {' '}
-        | $
+        |
+        {' '}
         {item.descendants}
       </div>
     </div>
