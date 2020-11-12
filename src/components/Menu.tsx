@@ -10,7 +10,7 @@ function Menu() {
   return (
     <div className="Menu">
       {menu.map((m, index) => (
-        <a className="Item" href={`/${m}`}>
+        <a key={m} className="Item" href={`/${m}`}>
           {m}
           {index !== menu.length - 1
             ? ' | '

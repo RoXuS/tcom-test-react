@@ -1,0 +1,16 @@
+.LiveItems {
+  background-color: rgb(246, 246, 239);
+  padding: 10px 9px 0 9px;
+}
+
+.LiveItems > tcom-live-item {
+  margin-bottom: 5px;
+}
+
+.More {
+  color: #828282;
+  margin-top: 10px;
+  padding-left: 25px;
+  font-size: 10pt;
+  cursor: pointer;
+}
