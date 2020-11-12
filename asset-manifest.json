@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.dc3c1c39.chunk.css",
-    "main.js": "/static/js/main.0cb8c2e1.chunk.js",
-    "main.js.map": "/static/js/main.0cb8c2e1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3018ad87.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3018ad87.js.map",
-    "static/js/2.371e0515.chunk.js": "/static/js/2.371e0515.chunk.js",
-    "static/js/2.371e0515.chunk.js.map": "/static/js/2.371e0515.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.dc3c1c39.chunk.css.map": "/static/css/main.dc3c1c39.chunk.css.map",
-    "static/js/2.371e0515.chunk.js.LICENSE.txt": "/static/js/2.371e0515.chunk.js.LICENSE.txt"
+    "main.css": "/tcom-test-react/static/css/main.dc3c1c39.chunk.css",
+    "main.js": "/tcom-test-react/static/js/main.0cb8c2e1.chunk.js",
+    "main.js.map": "/tcom-test-react/static/js/main.0cb8c2e1.chunk.js.map",
+    "runtime-main.js": "/tcom-test-react/static/js/runtime-main.ca3264e7.js",
+    "runtime-main.js.map": "/tcom-test-react/static/js/runtime-main.ca3264e7.js.map",
+    "static/js/2.371e0515.chunk.js": "/tcom-test-react/static/js/2.371e0515.chunk.js",
+    "static/js/2.371e0515.chunk.js.map": "/tcom-test-react/static/js/2.371e0515.chunk.js.map",
+    "index.html": "/tcom-test-react/index.html",
+    "static/css/main.dc3c1c39.chunk.css.map": "/tcom-test-react/static/css/main.dc3c1c39.chunk.css.map",
+    "static/js/2.371e0515.chunk.js.LICENSE.txt": "/tcom-test-react/static/js/2.371e0515.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3018ad87.js",
+    "static/js/runtime-main.ca3264e7.js",
     "static/js/2.371e0515.chunk.js",
     "static/css/main.dc3c1c39.chunk.css",
     "static/js/main.0cb8c2e1.chunk.js"
