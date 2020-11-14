@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tcom-test-react/static/css/main.dc3c1c39.chunk.css",
+    "main.css": "/tcom-test-react/static/css/main.32b848cd.chunk.css",
     "main.js": "/tcom-test-react/static/js/main.54a5301d.chunk.js",
     "main.js.map": "/tcom-test-react/static/js/main.54a5301d.chunk.js.map",
     "runtime-main.js": "/tcom-test-react/static/js/runtime-main.ca3264e7.js",
@@ -8,13 +8,13 @@
     "static/js/2.371e0515.chunk.js": "/tcom-test-react/static/js/2.371e0515.chunk.js",
     "static/js/2.371e0515.chunk.js.map": "/tcom-test-react/static/js/2.371e0515.chunk.js.map",
     "index.html": "/tcom-test-react/index.html",
-    "static/css/main.dc3c1c39.chunk.css.map": "/tcom-test-react/static/css/main.dc3c1c39.chunk.css.map",
+    "static/css/main.32b848cd.chunk.css.map": "/tcom-test-react/static/css/main.32b848cd.chunk.css.map",
     "static/js/2.371e0515.chunk.js.LICENSE.txt": "/tcom-test-react/static/js/2.371e0515.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ca3264e7.js",
     "static/js/2.371e0515.chunk.js",
-    "static/css/main.dc3c1c39.chunk.css",
+    "static/css/main.32b848cd.chunk.css",
     "static/js/main.54a5301d.chunk.js"
   ]
 }
